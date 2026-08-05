@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/2403051240140-rgb/DAA---Assignment/tree/master/0162-find-peak-element) |
 | [0088-merge-sorted-array](https://github.com/2403051240140-rgb/DAA---Assignment/tree/master/0088-merge-sorted-array) |
 | [0912-sort-an-array](https://github.com/2403051240140-rgb/DAA---Assignment/tree/master/0912-sort-an-array) |
+| [0215-kth-largest-element-in-an-array](https://github.com/2403051240140-rgb/DAA---Assignment/tree/master/0215-kth-largest-element-in-an-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -34,14 +35,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/2403051240140-rgb/DAA---Assignment/tree/master/0088-merge-sorted-array) |
 | [0912-sort-an-array](https://github.com/2403051240140-rgb/DAA---Assignment/tree/master/0912-sort-an-array) |
+| [0215-kth-largest-element-in-an-array](https://github.com/2403051240140-rgb/DAA---Assignment/tree/master/0215-kth-largest-element-in-an-array) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/2403051240140-rgb/DAA---Assignment/tree/master/0912-sort-an-array) |
+| [0215-kth-largest-element-in-an-array](https://github.com/2403051240140-rgb/DAA---Assignment/tree/master/0215-kth-largest-element-in-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/2403051240140-rgb/DAA---Assignment/tree/master/0912-sort-an-array) |
+| [0215-kth-largest-element-in-an-array](https://github.com/2403051240140-rgb/DAA---Assignment/tree/master/0215-kth-largest-element-in-an-array) |
 ## Merge Sort
 |  |
 | ------- |
@@ -58,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/2403051240140-rgb/DAA---Assignment/tree/master/0912-sort-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/2403051240140-rgb/DAA---Assignment/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
