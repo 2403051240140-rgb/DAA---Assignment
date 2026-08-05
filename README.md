@@ -7,8 +7,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/2403051240140-rgb/DAA---Assignment/tree/master/0704-binary-search) |
+| [0035-search-insert-position](https://github.com/2403051240140-rgb/DAA---Assignment/tree/master/0035-search-insert-position) |
 ## Binary Search
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/2403051240140-rgb/DAA---Assignment/tree/master/0704-binary-search) |
+| [0035-search-insert-position](https://github.com/2403051240140-rgb/DAA---Assignment/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
