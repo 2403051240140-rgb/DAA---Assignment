@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/2403051240140-rgb/DAA---Assignment/tree/master/0088-merge-sorted-array) |
 | [0912-sort-an-array](https://github.com/2403051240140-rgb/DAA---Assignment/tree/master/0912-sort-an-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/2403051240140-rgb/DAA---Assignment/tree/master/0215-kth-largest-element-in-an-array) |
+| [0053-maximum-subarray](https://github.com/2403051240140-rgb/DAA---Assignment/tree/master/0053-maximum-subarray) |
 ## Binary Search
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0912-sort-an-array](https://github.com/2403051240140-rgb/DAA---Assignment/tree/master/0912-sort-an-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/2403051240140-rgb/DAA---Assignment/tree/master/0215-kth-largest-element-in-an-array) |
+| [0053-maximum-subarray](https://github.com/2403051240140-rgb/DAA---Assignment/tree/master/0053-maximum-subarray) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -66,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/2403051240140-rgb/DAA---Assignment/tree/master/0215-kth-largest-element-in-an-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/2403051240140-rgb/DAA---Assignment/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
