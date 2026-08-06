@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/2403051240140-rgb/DAA---Assignment/tree/master/0215-kth-largest-element-in-an-array) |
 | [0053-maximum-subarray](https://github.com/2403051240140-rgb/DAA---Assignment/tree/master/0053-maximum-subarray) |
 | [0004-median-of-two-sorted-arrays](https://github.com/2403051240140-rgb/DAA---Assignment/tree/master/0004-median-of-two-sorted-arrays) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/2403051240140-rgb/DAA---Assignment/tree/master/0747-largest-number-at-least-twice-of-others) |
 ## Binary Search
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/2403051240140-rgb/DAA---Assignment/tree/master/0088-merge-sorted-array) |
 | [0912-sort-an-array](https://github.com/2403051240140-rgb/DAA---Assignment/tree/master/0912-sort-an-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/2403051240140-rgb/DAA---Assignment/tree/master/0215-kth-largest-element-in-an-array) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/2403051240140-rgb/DAA---Assignment/tree/master/0747-largest-number-at-least-twice-of-others) |
 ## Divide and Conquer
 |  |
 | ------- |
